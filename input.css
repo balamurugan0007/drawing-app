@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Poppins&family=Roboto&display=swap');
+
+
+body{
+    background-color: rgb(197, 194, 194);
+    
+}
+.container{
+    width: 80%;
+    height: 80vh;
+   
+}
+
+#head-name{
+font-family: Poppins;
+font-weight: 500;
+color:crimson;
+text-align: center;
+}
+
+
+
+
+.tools{
+    width: 200px;
+    height: 500px;
+    padding: 10px 20px;
+
+}
+#mycan{
+   padding: 20px 20px;
+   background-color: aliceblue;
+   border: 2px solid;
+   border-color: crimson;
+}
